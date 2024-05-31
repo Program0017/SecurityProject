@@ -7,9 +7,14 @@
         <option value="$PROJECT_DIR$/springsecuritybasic/pom.xml" />
         <option value="$PROJECT_DIR$/../springsecsection2/springsecuritybasic/pom.xml" />
         <option value="$PROJECT_DIR$/../springsecsection3/springsecuritybasic/pom.xml" />
+        <option value="$PROJECT_DIR$/../springsecsection4/springsecuritybasic/pom.xml" />
+        <option value="$PROJECT_DIR$/../springsecsection5/springsecuritybasic/pom.xml" />
+        <option value="$PROJECT_DIR$/../springsecsection6/springsecuritybasic/pom.xml" />
+        <option value="$PROJECT_DIR$/../springsecsection7/springsecuritybasic/pom.xml" />
+        <option value="$PROJECT_DIR$/../springsecsection8/springsecuritybasic/pom.xml" />
+        <option value="$PROJECT_DIR$/../springsecsection9/springsecuritybasic/pom.xml" />
       </list>
     </option>
-    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

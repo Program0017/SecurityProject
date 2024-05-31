@@ -1,0 +1,11 @@
+
+s
+java:S1128"7Remove this unused import 'jakarta.persistence.Entity'.(…ÅÊÆJ$7b51bd3d-2d5d-4b9a-9ce0-1fa4d5dd93b8
+‘
+java:S1128"URemove this unused import 'org.springframework.boot.autoconfigure.domain.EntityScan'.(›Ù¯J$dcf2f2b2-1b05-4968-a73b-c24a963650b9
+’
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿJ$35c07bfb-6bf2-44e0-934a-ee47b8e134ac
+
+java:S1128"]Remove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaAuditing'.(ÿ§í’ùÿÿÿÿJ$e0bab3c2-76a4-43d3-908f-6fe1896eb463
+¢
+java:S1128	"aRemove this unused import 'org.springframework.data.jpa.repository.config.EnableJpaRepositories'.(²œ˜üÿÿÿÿJ$73ccc8a3-bc9c-4fa2-9b4c-6041cbeb8db4

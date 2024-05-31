@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -9,6 +10,12 @@
         <module name="springsecsection2" />
         <module name="springsecsection3" />
         <module name="springsecuritybasic" />
+        <module name="springsecsection4" />
+        <module name="springsecsection5" />
+        <module name="springsecsection6" />
+        <module name="springsecsection7" />
+        <module name="springsecsection8" />
+        <module name="springsecsection9" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +23,12 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springsecsection2" options="-parameters" />
       <module name="springsecsection3" options="-parameters" />
+      <module name="springsecsection4" options="-parameters" />
+      <module name="springsecsection5" options="-parameters" />
+      <module name="springsecsection6" options="-parameters" />
+      <module name="springsecsection7" options="-parameters" />
+      <module name="springsecsection8" options="-parameters" />
+      <module name="springsecsection9" options="-parameters" />
       <module name="springsecuritybasic" options="-parameters" />
     </option>
   </component>
