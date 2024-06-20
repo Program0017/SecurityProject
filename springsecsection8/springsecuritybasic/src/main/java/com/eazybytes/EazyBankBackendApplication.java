@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 
 @SpringBootApplication
-@EnableWebSecurity
+@EnableWebSecurity(debug = true)
 public class EazyBankBackendApplication {
 
 	public static void main(String[] args) {

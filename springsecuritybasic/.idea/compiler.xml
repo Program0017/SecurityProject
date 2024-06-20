@@ -16,11 +16,13 @@
         <module name="springsecsection7" />
         <module name="springsecsection8" />
         <module name="springsecsection9" />
+        <module name="springsecsection10" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springsecsection10" options="-parameters" />
       <module name="springsecsection2" options="-parameters" />
       <module name="springsecsection3" options="-parameters" />
       <module name="springsecsection4" options="-parameters" />
